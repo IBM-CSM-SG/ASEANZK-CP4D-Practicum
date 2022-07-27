@@ -3,7 +3,7 @@
 <img src="./media/image1.png" style="width:6.26806in;height:3.975in"
 alt="Graphical user interface, application, website Description automatically generated" />
 
-**Refer to below table for the Practicum Lab Exercise Book.**
+**Refer to below table for Cloud Pak For Data(CP4D) Practicum Lab Exercise Book.**
 
 <table style="width:100%;">
 <colgroup>
@@ -22,7 +22,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p><strong>Use Case (TBC)</strong></p>
 </blockquote></th>
 <th><blockquote>
-<p><strong>Products Used</strong></p>
+<p><strong>CP4D Products Used</strong></p>
 </blockquote></th>
 <th><blockquote>
 <p><strong>Authors</strong></p>
@@ -100,4 +100,4 @@ alt="Graphical user interface, application, website Description automatically ge
 </tbody>
 </table>
 
-**<u>Practicum Co-Ordinator:</u>** **Siva** Kumar
+**<u>Practicum Contact:</u>** **Siva** Kumar
