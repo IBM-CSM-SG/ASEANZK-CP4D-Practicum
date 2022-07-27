@@ -34,70 +34,68 @@ alt="Graphical user interface, application, website Description automatically ge
 </thead>
 <tbody>
 <tr class="odd">
-<td><blockquote>
-<p>
+<td><p><u>
 
 [Scenario1](/scenario1/README.md)
-</p>
-</blockquote></td>
-<td><blockquote>
+</u></p>
+</td>
+<td>
 <p>Data Integration / Data Virtualization</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p>Watson Query</p>
 <p>Watson Studio</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p><strong>Sandeep</strong> Ved</p>
 <p><strong>Paul</strong> Jose</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-1</p>
-</blockquote></td>
+</td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p>
+<td>
+<p><u>
 
 [Scenario2](/scenario2/README.md)
-</p>
-</blockquote></td>
-<td><blockquote>
+</u></p>
+</td>
+<td>
 <p>MLOps and Trustworthy AI</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p>SPSS Modeler</p>
 <p>Watson Studio / WML</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p><strong>Teerarat</strong> Siwapathomchai</p>
 <p><strong>Indrajit</strong> Mukherjee</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-2</p>
-</blockquote></td>
+</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
-<p>
+<td><p><u>
 
 [Scenario3](/scenario3/README.md)
-</p>
-</blockquote></td>
-<td><blockquote>
+</u></p>
+</td>
+<td>
 <p>Data Governance &amp; Privacy</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p>WKC</p>
 <p>Watson Studio</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p><strong>John</strong> Isaac</p>
 <p><strong>Duc</strong> Duong Quang</p>
-</blockquote></td>
-<td><blockquote>
+</td>
+<td>
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-3</p>
-</blockquote></td>
+</td>
 </tr>
 </tbody>
 </table>
