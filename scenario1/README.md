@@ -23,15 +23,18 @@ Data Integration / Data Virtualization
 <span id="_Toc109841329" class="anchor"></span>
 <font size="5">**Scenario Description**</font>
 
-XYZ is currently using the data coming from multiple sources to build
-their models and dashboards. They run one large query overnight to bring
-the data from the two sources into a central location before running a
-series of data processing jobs to get the final dataset to be used on
+SAN Telecom is a top Telco operator in Europe, they store their customers data on multiple dbs. Some of them are on cloud and others are on prem. They have already developed some models and dashboards using IBM SPSS Modeler and open-source tools and cloud pak for data (public cloud version).  SAN Telecom has recently acquired Cloud Pak for Data v4 and are planning to utilize its key features to achieve the following goals ​:
+
+- 1. Data Governance​
+- 2. Run analytics on multiple data sources without clogging their network by moving all data to a central location​
+- 3. Migrate existing work from SPSS Modeler and public cloud to the new Cloud Pak for Data​
+
+SAN Telecom is currently using the data coming from multiple sources to build their models and dashboards. They run one large query overnight to bring
+the data from the two sources into a central location before running a series of data processing jobs to get the final dataset to be used on
 the dashboard.
 
-Your objective is to use IBM Cloud Pak for Data features to avoid the
-need of running the bottleneck query. The main features to focus on here
-are Data Virtualization  then Watson Query.
+Your objective is to use IBM Cloud Pak for Data features to avoid the need of running the bottleneck query. The main features to focus on here
+are Data Virtualization and Watson Query.
 
 ​<span id="_Toc109841330" class="anchor"></span>
 <font size="5">**High Level Architecture**</font>
@@ -59,4 +62,4 @@ Credentials will be available in the slack Channel.
 <span id="_Toc109841333" class="anchor"></span>
 <font size="5"> **Reference Implementation Steps** </font>
 
-Refer to attached [**PDF**](Scenario1.pdf) here for reference.
+Click [**Here**](Scenario1.pdf) for reference.
