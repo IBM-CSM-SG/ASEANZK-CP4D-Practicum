@@ -22,7 +22,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p><strong>Use Case (TBC)</strong></p>
 </blockquote></th>
 <th><blockquote>
-<p><strong>Products Used</strong></p>
+<p><strong>ICP4D Products Used</strong></p>
 </blockquote></th>
 <th><blockquote>
 <p><strong>Authors</strong></p>
