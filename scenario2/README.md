@@ -30,6 +30,7 @@ The company has recently acquired Cloud Pak for Data v4 and are planning to util
 - 2. Save and deploy model seamlessly to reduce friction between model developer and machine learning engineer.
 - 3. The model need to be an "on-line" deployment with API for the front end application. 
 - 4. After deployment successfully, you also have been asked to set up instance to monitor the model to see there are any changes affect to the model (Drift and Fariness fro example).
+- 5. Use the Python Client to test the model and check the payload is logging in the OpenScale.
 
 
 ​<span id="_Toc109841336" class="anchor"></span>
