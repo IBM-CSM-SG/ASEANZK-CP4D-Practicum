@@ -19,7 +19,7 @@
 
 MLOps and Trustworthy AI (focusing on Model Development / Model Deployment / Monitoring)
 
-<img src="./media/image3.png" style="width:6.1923in;height:3.47067in" alt="Product List" />
+<img src="./media/image3.png" style="width:6.1923in;height:3.47067in" alt="MLOps and Trustworthy" />
 
 <span id="_Toc109841335" class="anchor"></span>
 <font size="5">**Scenario Description**</font>
