@@ -17,7 +17,9 @@
 <span id="_Toc109841334" class="anchor"></span>
 <font size="5">**Use Case**</font>
 
-Model Development / Model Deployment / Monitoring 
+MLOps and Trustworthy AI (focusing on Model Development / Model Deployment / Monitoring)
+
+<img src="./media/image3.png" style="width:6.1923in;height:3.47067in" alt="Product List" />
 
 <span id="_Toc109841335" class="anchor"></span>
 <font size="5">**Scenario Description**</font>
@@ -39,7 +41,7 @@ The company has recently acquired Cloud Pak for Data v4 and are planning to util
 Below is the high level architecture that we plan to implement as part
 of this scenario.
 
-<img src="./media/image3.png" style="width:4.52188in;height:2.78114in" alt="Architecture" />
+<img src="./media/image4.png" style="width:4.52188in;height:2.78114in" alt="Architecture" />
 
 <span id="_Toc109841337" class="anchor"></span>
 <font size="5">**Product Used**</font>
@@ -52,7 +54,7 @@ Your objective is to use IBM Cloud Pak for Data features to develop, deploy and 
 - 2x DB2 Database or DataWarehouse (1x for Training data storing, 1x for Watson OpenScale set up)
 - 1x Cloud Object Storage (for Watson OpenScale to keep training data)
 
-<img src="./media/image4.png" style="width:6.1923in;height:3.47067in" alt="Product List" />
+<img src="./media/image5.png" style="width:6.1923in;height:3.47067in" alt="Product List" />
 
 <span id="_Toc109841338" class="anchor"></span>
 <font size="5">**Environment Details**</font>
