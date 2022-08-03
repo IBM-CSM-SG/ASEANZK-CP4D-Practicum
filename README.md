@@ -67,7 +67,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <td>
 <p>Watson Studio with Watson AutoAI (WSL)</p>
 <p>Watson Machine Learning (WML)</p>
-<p>Watson OpenScale (WML)</p>
+<p>Watson OpenScale (WOS)</p>
 </td>
 <td>
 <p><strong>Teerarat</strong> Siwapathomchai</p>
