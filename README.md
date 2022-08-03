@@ -65,8 +65,9 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>MLOps and Trustworthy AI</p>
 </td>
 <td>
-<p>SPSS Modeler</p>
-<p>Watson Studio / WML</p>
+<p>Watson Studio with Watson AutoAI (WSL)</p>
+<p>Watson Machine Learning (WML)</p>
+<p>Watson OpenScale (WML)</p>
 </td>
 <td>
 <p><strong>Teerarat</strong> Siwapathomchai</p>
