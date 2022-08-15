@@ -27,7 +27,9 @@ Data Governance, Data Quality & Privacy
 ABC customer data platform is built with the purpose to provide data to different groups of data consumers such as Data Scientist, Data Analyst, and application developer without having to distribute the authentication information to each group. As data engineers of ABC customer data platform, you are tasked to setup the data governance, data quality and privacy practices with IBM Cloud Pak for Data technologies to make this possible. 
 
 In order to provide business ready data for consumers, the follow steps should be performed:
+
 1/ Catalog datasets
+
 2/ Import metadata and discover data
 
 
