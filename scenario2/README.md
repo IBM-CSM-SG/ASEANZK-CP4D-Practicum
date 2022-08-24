@@ -67,4 +67,4 @@ Credentials will be available in the slack Channel.
 <span id="_Toc109841339" class="anchor"></span>
 <font size="5"> **Reference Implementation Steps** </font>
 
-Click [**Here**](Scenario1.pdf) for reference. (To be Updated)
+Click [**Here**](Scenario2.pdf) for reference. (To be Updated)
