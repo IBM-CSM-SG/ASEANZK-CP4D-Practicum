@@ -17,21 +17,30 @@
 <span id="_Toc109841344" class="anchor"></span>
 <font size="5">**Use Case**</font>
 
-Data Governance, Data Quality & Privacy
+Data Governance and Privacy
 
-<img src="" style="width:6.1923in;height:3.47067in" alt="Data Governance, Data Quality and Privacy" />
+<img src="" style="width:6.1923in;height:3.47067in" alt="Data Governance and Privacy" />
 
 <span id="_Toc109841345" class="anchor"></span>
 <font size="5">**Scenario Description**</font>
 
-ABC customer data platform is built with the purpose to provide data to different groups of data consumers such as Data Scientist, Data Analyst, and application developer without having to distribute the authentication information to each group. As data engineers of ABC customer data platform, you are tasked to setup the data governance, data quality and privacy practices with IBM Cloud Pak for Data technologies to make this possible. 
+ABC is a bank that has several departmens that need to access to high-quality customer data. As a Data Steward of the Data Goverance team, you are tasked to sort and organize the company's data to provide high-quality and protected data assets that data consumers can easily find in a self-service catalog. 
 
-In order to provide business ready data for consumers, the follow steps should be performed:
+In order to provide business ready data for data consumers, the follow steps should be performed:
 
-1/ Catalog datasets
+1/ Create a catalog
 
-2/ Import metadata and discover data
+2/ Create a category
 
+3/ Add business terms
+
+4/ Import data to a project
+
+5/ Enrich the imported data
+
+6/ View the results of the metadata enrichment
+
+7/ Publish data to a catalog
 
 ​<span id="_Toc109841346" class="anchor"></span>
 <font size="5">**High Level Architecture**</font>
