@@ -17,46 +17,34 @@
 <span id="_Toc109841344" class="anchor"></span>
 <font size="5">**Use Case**</font>
 
-Data Governance and Privacy
+Data Governance and Privacy: Created a trusted, business-ready data foundation for a data fabric.
 
-<img src="" style="width:6.1923in;height:3.47067in" alt="Data Governance and Privacy" />
+<img src="./media/image-1.png" style="width:6.1923in;height:3.47067in" alt="Data Governance and Privacy" />
 
 <span id="_Toc109841345" class="anchor"></span>
 <font size="5">**Scenario Description**</font>
 
-ABC is a bank that has several departmens that need to access to high-quality customer data. As a Data Steward of the Data Goverance team, you are tasked to sort and organize the company's data to provide high-quality and protected data assets that data consumers can easily find in a self-service catalog. 
+ABC is a bank that has several departmens that need to access to high-quality customer data. As a Data Steward of the Data Goverance team, you are tasked to sort and organize the company's data to provide high-quality and protected data assets that data consumers can easily find in a self-service catalog.
 
-In order to provide business ready data for data consumers, the follow steps should be performed:
-
-1/ Create a catalog
-
-2/ Create a category
-
-3/ Add business terms
-
-4/ Import data to a project
-
-5/ Enrich the imported data
-
-6/ View the results of the metadata enrichment
-
-7/ Publish data to a catalog
+To implement data governance and privacy, the organization can follow this process:
+1/ Set up a governance framework
+2/ Create rules to protect data
+3/ Curate data to share in catalogs
+4/ Find and use data
 
 ​<span id="_Toc109841346" class="anchor"></span>
 <font size="5">**High Level Architecture**</font>
 
-In progress..
-
-<img src="" style="width:4.52188in;height:2.78114in" alt="Architecture" />
+<img src="./media/High-Level Architecture.png" style="width:4.52188in;height:2.78114in" alt="High-level Architecture" />
 
 <span id="_Toc109841347" class="anchor"></span>
 <font size="5">**Product Used**</font>
 
 The components used in this project are as below.
-- Watson Knowledge Catalog (WKC)
-- Watson Studio / Data virtualization
+- The Watson Knowledge Catalog (WKC) service in Cloud Pak for Data provides all of the tools and processes that your organization needs to implement a data governance and privacy solution. 
+- The Watson Studio provides tools needed for data consumers to find and analyze data. 
 
-<img src="" style="width:6.1923in;height:3.47067in" alt="Product List" />
+<img src="/media/WKC-DataGovernance.png" style="width:6.1923in;height:3.47067in" alt="Product List" />
 
 <span id="_Toc109841348" class="anchor"></span>
 <font size="5">**Environment Details**</font>
