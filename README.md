@@ -36,6 +36,7 @@ alt="Graphical user interface, application, website Description automatically ge
 
 <tr class="odd">
 <td><p><u>
+
 [Scenario1](/scenario1/README.md)
 </u></p>
 </td>
@@ -58,6 +59,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <tr class="even">
 <td>
 <p><u>
+
 [Scenario2](/scenario2/README.md)
 </u></p>
 </td>
@@ -80,6 +82,7 @@ alt="Graphical user interface, application, website Description automatically ge
 
 <tr class="odd">
 <td><p><u>
+
 [Scenario3](/scenario3/README.md)
 </u></p>
 </td>
@@ -101,6 +104,7 @@ alt="Graphical user interface, application, website Description automatically ge
 
 <tr class="even">
 <td><p><u>
+
 [Scenario4](/scenario4/README.md)
 </u></p>
 </td>
@@ -108,8 +112,8 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>Customer Care</p>
 </td>
 <td>
-<p>WA</p>
 <p>Watson Assistant</p>
+<p>Watson Discovery</p>
 </td>
 <td>
 <p><strong>TBD</strong> </p>
@@ -122,6 +126,7 @@ alt="Graphical user interface, application, website Description automatically ge
 
 <tr class="odd">
 <td><p><u>
+
 [Scenario5](/scenario5/README.md)
 </u></p>
 </td>
@@ -129,7 +134,6 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>IBM CP4D Installation </p>
 </td>
 <td>
-<p>CP4D</p>
 <p>ICM Cloud Pak for Data</p>
 </td>
 <td>
