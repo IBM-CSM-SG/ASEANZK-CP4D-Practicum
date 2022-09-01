@@ -137,7 +137,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>ICM Cloud Pak for Data</p>
 </td>
 <td>
-<p><strong>TBD</strong> </p>
+<p><strong>Sujatha Sureshkumar</strong> </p>
 <p><strong>TBD</strong> </p>
 </td>
 <td>
