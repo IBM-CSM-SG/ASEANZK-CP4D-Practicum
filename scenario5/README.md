@@ -10,19 +10,22 @@ This document provides step-by-step instructions to install IBM Cloud Pak for Da
 Note: IBM® Cloud Pak for Data images are accessible from the IBM Entitled Registry. In most situations, it is strongly recommended that you mirror the necessary software images from the IBM Entitled Registry to a private container registry. Because we are deploying for demo purposes in this example, I have skipped mirroring IBM Cloud Pak for Data images in the private container registry.
 
 #### Assumptions
-•	Installing fresh Cloud pak for data Control Plane, Foundational Services and Operators
-•	Red Hat OpenShift cluster has access to a high-speed internet connection and can pull images directly from IBM Entitled Registry.
-•	Installing for demo purposes and so, the latest version of the software will automatically install on the Red Hat OpenShift cluster.
-•	User has knowledge and experience managing Red Hat OpenShift cluster
+     •	Installing fresh Cloud pak for data Control Plane, Foundational Services and Operators.
+     •	Red Hat OpenShift cluster has access to a high-speed internet connection and can pull images directly from IBM Entitled Registry.
+     •	Installing for demo purposes and so, the latest version of the software will automatically install on the Red Hat OpenShift cluster.
+     •	User has knowledge and experience managing Red Hat OpenShift cluster
 
 #### Pre-Requisite
-•	Red Hat OpenShift cluster version 4.6 or later with min 48 vCPU and 192 GB RAM
-•	Bastion host with 2 vCPU and 4GB RAM with Linux OS
-•	Internet access for Bastion host and Red Hat OpenShift cluster
-•	OpenShift Container Storage (OCS) attached to Red Hat OpenShift cluster. This link will help you determine supported storage. In this demo, I have used OCS Storage.
-•	A User with OpenShift Cluster and Project Administrator access
-•	IBM Cloud Pak for Data Entitlement Key — Here is the link to download the entitlement key
+    •	Red Hat OpenShift cluster version 4.6 or later with min 48 vCPU and 192 GB RAM
+    •	Bastion host with 2 vCPU and 4GB RAM with Linux OS
+    •	Internet access for Bastion host and Red Hat OpenShift cluster
+    •	OpenShift Container Storage (OCS) attached to Red Hat OpenShift cluster. This link will help you determine supported storage. In this demo, I have used OCS Storage.
+    •	A User with OpenShift Cluster and Project Administrator access
+    •	IBM Cloud Pak for Data Entitlement Key — Here is the link to download the entitlement key
+
+
 After reviewing the system requirements and other planning information, install IBM Cloud Pak for Data by completing the provisioning clusters, setup environment variables, completing the installation task itself, and then completing the  validation of installation tasks. When complete, the Cloud Pak for Data control plane would be installed. Services are installed separately.
+
 You use the Cloud Pak for Data command-line interface to install the Cloud Pak for Data control plane and any services that you want to run.
 This guide is based on Red Hat OpenShift (ROKS) v4.6 on IBM Cloud for Cloud Pak for Data Custom. A fully managed Red Hat OpenShift 4.6 cluster installed on IBM Cloud ready for Cloud Pak for Data installation.
 
