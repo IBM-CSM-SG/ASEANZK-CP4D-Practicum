@@ -31,9 +31,9 @@ This guide is based on Red Hat OpenShift (ROKS) v4.6 on IBM Cloud for Cloud Pak 
 
 ### This guide consists of four sections:
 #### 1. Provisioning Of Roks:
-   This section covers steps to provision ROKS for Cloud Pak for data in IBM Techzone and accessing the cluster. 
+     This section covers steps to provision ROKS for Cloud Pak for data in IBM Techzone and accessing the cluster. 
 #### 2. Installing the OpenShift CLI by using the web console:
-   OpenShift CLI is a mandatory tool when working with Openshift CP4D cluster. Guide for installing the OpenShift CLI by using web console is given for your reference.
+     OpenShift CLI is a mandatory tool when working with Openshift CP4D cluster. Guide for installing the OpenShift CLI by using web console is given for your reference.
 #### 3. Pre-Installation Steps
     This section covers guide to generate IBM Entitlement Key and setup of various environment variables. 
     IBM Entitlement Key. key will be used to access IBM software. By accessing the IBM Entitled Registry using this key, you can easily access the IBM container software you have licensed.
