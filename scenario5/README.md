@@ -29,7 +29,7 @@ This guide is based on Red Hat OpenShift (ROKS) v4.6 on IBM Cloud for Cloud Pak 
  ![image](https://user-images.githubusercontent.com/44421667/188652318-6349e268-6c09-4110-96ff-14518583eaac.png)
 
 
-### This guide consists of four sections:
+### This guide consists of five sections:
 #### 1. Provisioning Of Roks:
      This section covers steps to provision ROKS for Cloud Pak for data in IBM Techzone and accessing the cluster. 
 #### 2. Installing the OpenShift CLI by using the web console:
