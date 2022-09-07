@@ -24,7 +24,7 @@ Data Governance and Privacy: Created a trusted, business-ready data foundation f
 <span id="_Toc109841345" class="anchor"></span>
 <font size="5">**Scenario Description**</font>
 
-ABC is a bank that has several departmens that need to access to high-quality customer data. As a Data Steward of the Data Goverance team, you are tasked to sort and organize the company's data to provide high-quality and protected data assets that data consumers can easily find in a self-service catalog.
+Golden Bank has several departmens that need to access to high-quality customer mortgage data. As a Data Steward of the Data Goverance team, you are tasked to sort and organize the company's data to provide high-quality and protected data assets that data consumers can easily find in a self-service catalog.
 
 To implement data governance and privacy, the organization can follow this process:
 
@@ -53,11 +53,9 @@ The components used in this project are as below.
 <span id="_Toc109841348" class="anchor"></span>
 <font size="5">**Environment Details**</font>
 
-Use IBM Cloud Pak for Data platform to implement the scenario.
-
-**TBD**
+Use IBM Cloud Pak for Data platform to implement the scenario. Sign up for Clould Pak for Data as a Service and provision the necessary services for the Data Governance and Privacy use case. Please refer to the lab guidance for more details.
 
 <span id="_Toc109841349" class="anchor"></span>
 <font size="5"> **Reference Implementation Steps** </font>
 
-Click [**Here**](in progress) for reference. 
+Click [**Here**](Lab_DataGovernancePrivacy_Tutorial.pdf) for lab detail and reference. 
