@@ -127,7 +127,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <tr class="odd">
 <td><p><u>
 
-[Scenario5](/scenario5/README.md)
+[Scenario5 (Common)](/scenario5/README.md)
 </u></p>
 </td>
 <td>
