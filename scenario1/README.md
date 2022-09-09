@@ -62,4 +62,7 @@ Credentials will be available in the slack Channel.
 <span id="_Toc109841333" class="anchor"></span>
 <font size="5"> **Reference Implementation Steps** </font>
 
-Click [**Here**](Scenario1.pdf) for reference.
+Click [**Here**](scenario1-skytap.pdf) to try the Data Virtualization Lab on IBM Cloud Pak for Data using IBM Skytap Cluster
+
+Click [**Here**](scenario1-SaaS.pdf) to try the Data Virtualization Lab on IBM Cloud Pak for Data as Service on IBM Cloud.
+

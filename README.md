@@ -33,6 +33,7 @@ alt="Graphical user interface, application, website Description automatically ge
 </tr>
 </thead>
 <tbody>
+
 <tr class="odd">
 <td><p><u>
 
@@ -54,6 +55,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-1</p>
 </td>
 </tr>
+
 <tr class="even">
 <td>
 <p><u>
@@ -65,8 +67,9 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>MLOps and Trustworthy AI</p>
 </td>
 <td>
-<p>SPSS Modeler</p>
-<p>Watson Studio / WML</p>
+<p>Watson Studio with Watson AutoAI (WSL)</p>
+<p>Watson Machine Learning (WML)</p>
+<p>Watson OpenScale (WOS)</p>
 </td>
 <td>
 <p><strong>Teerarat</strong> Siwapathomchai</p>
@@ -76,6 +79,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-2</p>
 </td>
 </tr>
+
 <tr class="odd">
 <td><p><u>
 
@@ -97,6 +101,50 @@ alt="Graphical user interface, application, website Description automatically ge
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-3</p>
 </td>
 </tr>
+
+<tr class="even">
+<td><p><u>
+
+[Scenario4](/scenario4/README.md)
+</u></p>
+</td>
+<td>
+<p>Customer Care</p>
+</td>
+<td>
+<p>Watson Assistant</p>
+<p>Watson Discovery</p>
+</td>
+<td>
+<p><strong>TBD</strong> </p>
+<p><strong>TBD</strong> </p>
+</td>
+<td>
+<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-4</p>
+</td>
+</tr>
+
+<tr class="odd">
+<td><p><u>
+
+[Scenario5 (Common)](/scenario5/README.md)
+</u></p>
+</td>
+<td>
+<p>IBM CP4D Installation </p>
+</td>
+<td>
+<p>ICM Cloud Pak for Data</p>
+</td>
+<td>
+<p><strong>Sujatha Sureshkumar</strong> </p>
+<p><strong>TBD</strong> </p>
+</td>
+<td>
+<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-5</p>
+</td>
+</tr>
+
 </tbody>
 </table>
 
