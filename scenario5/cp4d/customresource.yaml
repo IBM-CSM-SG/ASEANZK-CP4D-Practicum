@@ -9,4 +9,4 @@ spec:
     license: Enterprise                      # Specify the Cloud Pak for Data license you purchased
   storageClass: ibmc-file-gold-gid                     # Replace with the name of a RWX storage class
   zenCoreMetadbStorageClass: ibmc-file-gold-gid        # (Recommended) Replace with the name of a RWO storage class
-  version: "4.0.1"
+  version: "4.5.2"
