@@ -46,4 +46,4 @@ This guide is based on Red Hat OpenShift (ROKS) v4.6 on IBM Cloud for Cloud Pak 
 #### 5. VALIDATION OF CLOUD PAK FOR DATA INSTALLATION
     This step covers the validation of successful installation for Cloud Pak for Data.
 
-Click [here](https://github.com/IBM-CSM-SG/ASEANZK-CP4D-Practicum/blob/main/scenario5/IBM%20CP4D%20Installation%20%26%20Configuration%20In%20Openshift.pdf) to access the IBM CP4D Installation & Configuration In Openshift guide.
+Click [here](https://github.com/IBM-CSM-SG/ASEANZK-CP4D-Practicum/blob/main/scenario5/ROKS%20IBM%20CP4D%20Installation%20%26%20Configuration%20In%20Openshift.pdf) to access the IBM CP4D Installation & Configuration In Openshift guide.
