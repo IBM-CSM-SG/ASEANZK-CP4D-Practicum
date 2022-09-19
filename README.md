@@ -73,7 +73,7 @@ alt="Graphical user interface, application, website Description automatically ge
 </td>
 <td>
 <p><strong>Teerarat</strong> Siwapathomchai</p>
-<p><strong>Indrajit</strong> Mukherjee</p>
+<p><strong>Satit</strong> Mukherjee</p>
 </td>
 <td>
 <p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-2</p>
