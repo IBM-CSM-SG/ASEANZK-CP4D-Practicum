@@ -1,0 +1,72 @@
+[
+  {
+    "request": {
+      "fields": [
+        "LOANAMOUNT",
+        "SEX",
+        "AGE",
+        "HOUSE",
+        "CREDITCARD",
+        "JOB",
+        "DEPENDENT",
+        "TELEPHONE",
+        "FOREIGNER"
+      ],
+      "values": [
+        [
+          2000,
+          "male",
+          32,
+          "own",
+          1,
+          "skilled",
+          1,
+          "yes",
+          "no"
+        ]
+      ],
+      "meta": {
+        "fields": [
+          "SEX"
+        ],
+        "values": [
+          [
+            "male"
+          ]
+        ]
+      }
+    },
+    "response": {
+      "fields": [
+        "LOANAMOUNT",
+        "SEX",
+        "AGE",
+        "HOUSE",
+        "CREDITCARD",
+        "JOB",
+        "DEPENDENT",
+        "TELEPHONE",
+        "FOREIGNER",
+        "probability",
+        "prediction"
+      ],
+      "values": [
+        [
+          2000,
+          "male",
+          32,
+          "own",
+          1,
+          "skilled",
+          1,
+          "yes",
+          "no",
+          [0.7541479304432869,
+           0.24585206955671313
+         ],
+          "No RISK"
+        ]
+      ]
+    }
+  }
+]
