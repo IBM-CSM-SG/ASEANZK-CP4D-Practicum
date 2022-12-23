@@ -58,6 +58,4 @@ Use IBM Cloud Pak for Data platform to implement the scenario. Use a Cloud for D
 <span id="_Toc109841349" class="anchor"></span>
 <font size="5"> **Reference Implementation Steps** </font>
 
-- Please use [**This Lab**](Scenario3_ROSA.pdf) for practicing in ROSA environment.
-
-- Please use [**This Lab**](Scenario3_Saas.pdf) for practicing in Saas environment.
+- Please use [**This Lab**](Scenario3_ROSA.pdf) for practicing in ROSA and in Saas environment.
