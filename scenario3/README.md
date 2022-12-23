@@ -60,4 +60,4 @@ Use IBM Cloud Pak for Data platform to implement the scenario. Sign up for Cloul
 
 Please use [**This Lab**](Lab Data Governance and Privacy Lab_ROSA version.pdf) for practicing in ROSA environment.
 
-Please use [**This Lab**](tobeupdated..) for practicing in Saas environment.
+Please use [**This file**](tobeupdated..) for practicing in Saas environment.
