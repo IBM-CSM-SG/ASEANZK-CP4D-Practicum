@@ -1,0 +1,62 @@
+Name,Artifact Type,Category,Description,Tags,Classifications,Stewards,Related Terms,Part of Terms,Abbreviations
+Account Balance,glossary_term,Banking,,,,,,,
+Account Holder,glossary_term,Banking,,,,,,,
+Account Holder ID,glossary_term,Banking,,,,,,,
+Account ID,glossary_term,Banking,,,,,,,
+Account Owner,glossary_term,Banking,,,,,,,
+Account Type,glossary_term,Banking,,,,,,,
+Address,glossary_term,Banking,,,,,,,
+Age,glossary_term,Banking,,,,,,,
+Applied online,glossary_term,Banking,,,,,,,APPLIEDONLINE
+Avarage Balance,glossary_term,Banking,,,,,,,
+Bank Account,glossary_term,Banking,,,,,,,
+Bank Client,glossary_term,Banking,,,,,,,
+Bank Customer,glossary_term,Banking,,,,,,,
+Checking Account,glossary_term,Banking,,,,,,,
+City,glossary_term,Banking,,,,,,,
+Client ID,glossary_term,Banking,,,,,,,
+Commercial Client,glossary_term,Banking,,,,,,,COMMERCIAL_CLIENT
+Commercial frauds investigation,glossary_term,Banking,,,,,,,COMM_FRAUD_INV
+Credit Card Debt,glossary_term,Banking,,,,,,,CREDITCARD_DEBT
+Credit Ranking,glossary_term,Banking,,,,,,,
+Credit Rating,glossary_term,Banking,,,,,,,
+Credit Score,glossary_term,Banking,,,,,,,
+Customer ID,glossary_term,Banking,,,,,,,
+Customer Identifier,glossary_term,Banking,,,,,,,
+Data no bias,glossary_term,Banking,,,,,,,
+Data with bias,glossary_term,Banking,,,,,,,
+Education,glossary_term,Banking,,,,,,,
+Email address,glossary_term,Banking,,,,,,,EMAIL_ADDRESS
+Employment status,glossary_term,Banking,,,,,,,
+Form ID,glossary_term,Banking,,,,,,,
+Gender,glossary_term,Banking,,,,,,,
+Has Bankcard,glossary_term,Banking,,,,,,,
+Has online access,glossary_term,Banking,,,,,,,ONLINE_ACCESS
+House Price,glossary_term,Banking,,,,,,,
+ID,glossary_term,Banking,,,,,,,
+Income,glossary_term,Banking,,,,,,,
+Interest Rate,glossary_term,Banking,,,,,,,
+Jointed accounts,glossary_term,Banking,,,,,,,
+Loan,glossary_term,Banking,,,,,,,LOANS
+Loan amount,glossary_term,Banking,,,,,,,
+Marital Status,glossary_term,Banking,,,,,,,
+Mortgage Applicant,glossary_term,Banking,,,,,,,MORTGAGE_APPLICANTS
+Mortgage Application,glossary_term,Banking,,,,,,,MORTGAGE_APPLICATION
+Name,glossary_term,Banking,,,,,,,
+Number of years as a client,glossary_term,Banking,,,,,,,NBR_YEARS_CLI
+Occupation,glossary_term,Banking,,,,,,,PROFESSION
+Phone number,glossary_term,Banking,,,,,,,
+Profession,glossary_term,Banking,,,,,,,
+Property City,glossary_term,Banking,,,,,,,
+Property State,glossary_term,Banking,,,,,,,
+Property Value,glossary_term,Banking,,,,,,,
+Race,glossary_term,Banking,,,,,,,
+Residence,glossary_term,Banking,,,,,,,
+Saving Account,glossary_term,Banking,,,,,,,
+Social Security Number,glossary_term,Banking,,,,,,,
+State,glossary_term,Banking,,,,,,,
+State code,glossary_term,Banking,,,,,,,
+Street Address,glossary_term,Banking,,,,,,,
+Workclass,glossary_term,Banking,,,,,,,
+Zip,glossary_term,Banking,,,,,,,
+Zip code,glossary_term,Banking,,,,,,,ZIP_CODE
