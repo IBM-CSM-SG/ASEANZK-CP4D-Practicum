@@ -52,7 +52,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p><strong>Paul</strong> Jose</p>
 </td>
 <td>
-<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-1</p>
+<p>#ap-cp4d-practicum-guest-sg-jan10</p>
 </td>
 </tr>
 
@@ -76,7 +76,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p><strong>Satit</strong> Pongbundit</p>
 </td>
 <td>
-<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-2</p>
+<p>#ap-cp4d-practicum-guest-sg-jan10</p>
 </td>
 </tr>
 
@@ -98,50 +98,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p><strong>Duc</strong> Duong Quang</p>
 </td>
 <td>
-<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-3</p>
-</td>
-</tr>
-
-<tr class="even">
-<td><p><u>
-
-[Scenario4](/scenario4/README.md)
-</u></p>
-</td>
-<td>
-<p>Customer Care</p>
-</td>
-<td>
-<p>Watson Assistant</p>
-<p>Watson Discovery</p>
-</td>
-<td>
-<p><strong>TBD</strong> </p>
-<p><strong>TBD</strong> </p>
-</td>
-<td>
-<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-4</p>
-</td>
-</tr>
-
-<tr class="odd">
-<td><p><u>
-
-[Scenario5 (Common)](/scenario5/README.md)
-</u></p>
-</td>
-<td>
-<p>IBM CP4D Installation </p>
-</td>
-<td>
-<p>ICM Cloud Pak for Data</p>
-</td>
-<td>
-<p><strong>Sujatha Sureshkumar</strong> </p>
-<p><strong>TBD</strong> </p>
-</td>
-<td>
-<p>#XYZ-ASEANZ-ICP4D-PRACTICUM-SCENARIO-5</p>
+<p>#ap-cp4d-practicum-guest-sg-jan10</p>
 </td>
 </tr>
 
