@@ -19,7 +19,7 @@ alt="Graphical user interface, application, website Description automatically ge
 <p><strong>Scenario</strong></p>
 </blockquote></th>
 <th><blockquote>
-<p><strong>Use Case (TBC)</strong></p>
+<p><strong>Use Case</strong></p>
 </blockquote></th>
 <th><blockquote>
 <p><strong>CP4D Products Used</strong></p>
